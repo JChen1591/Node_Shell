@@ -6,3 +6,5 @@ process.stdin.on(pwd => {
   process.stdout.write('You typed: ' + cmd);
   process.stdout.write('\nprompt > ');
 });
+
+candy apples
