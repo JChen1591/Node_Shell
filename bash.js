@@ -7,4 +7,4 @@ process.stdin.on(pwd => {
   process.stdout.write('\nprompt > ');
 });
 
-candy apples
+candy apples asdasd
